@@ -1,0 +1,103 @@
+p{
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+}
+
+.header h1{
+    background-color: black;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 100px;
+    font-weight: normal;
+    color: aqua;
+}
+
+
+.pixelify-sans-pixel {
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.header img{
+    width: 100px;
+}
+
+body{
+    color: aliceblue;
+    font-family: sans-serif;
+    background-color: steelblue;
+}  
+
+.desc p{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.caption{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.pixel_box .label{
+    border-style:ridge;
+    border-width: 5px;
+    width: fit-content;
+}
+
+.pixel_box .content{
+    border-style: solid;
+    border-width: 5px 1px 1px 5px;
+    background-color: midnightblue;
+    height: 200px;
+    display: flex;
+}
+
+.pixel_box a{
+    color: aliceblue;
+    margin: 10px;
+    padding: 5px;
+    border-style: solid;
+    border-color: aliceblue;
+    height:fit-content;
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.row{
+    display: grid;
+}
+
+body video{
+    width: 500px;
+}
+.vibes img{
+    width: 300px;
+}
+
+.nav-1 a{
+color: aliceblue;
+}
+.utena-handhold img{
+    width: 300px;
+}
+
+.kiryu-heart img{
+    width: 100%;
+    margin:50px
+}
+
+.fancams video{
+    width: 320px;
+}

@@ -1,0 +1,46 @@
+:root{
+    --colors: #111111, #000000, #cccccc;
+}
+
+
+body{
+    background-image: url(asx.png);
+}
+
+p{
+    margin: 0px;
+    padding: 10px 0px 20px 0px;
+    transform: rotate(90deg);
+    width: 60px;
+}
+
+.shelf{
+    display: flex;
+    margin: 50px 20px 0px 60px;
+}
+
+.book{
+    font-family: "Pixelify Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+    color: aliceblue;
+    background-color: indigo;
+    width: fit-content;
+    margin: 0px 5px;
+
+}
+
+.book:hover{
+    transform: translateY(-10px);
+}
+
+.rotate{
+    transform: rotate(90deg);
+}
+
+a:link{
+    text-decoration: none;
+}
+
+

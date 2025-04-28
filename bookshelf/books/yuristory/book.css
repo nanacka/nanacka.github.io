@@ -1,0 +1,68 @@
+@font-face {
+    font-family: CCWildWordsRoman;
+    src: url(/bookshelf/CC\ Wild\ Words\ Roman.ttf);
+}
+
+body{
+    color: rgb(87, 5, 32);
+    background: url(/bookshelf/pages.png) rgb(233, 114, 181);
+    background-size: cover;
+    background-blend-mode: overlay;
+}
+
+h1{
+    font-family: "CCWildWordsRoman";
+    font-size: 50px;
+}
+
+h2{
+    font-family: "CCWildWordsRoman";
+    font-size: larger;
+    padding-top: 20px;
+}
+
+h3{
+
+    font-family: "CCWildWordsRoman";
+    font-size: 15px; 
+    
+}
+
+h4{
+    font-family: "CCWildWordsRoman";
+    font-size: 25px;
+    padding-top: 20px;
+}
+
+h5{
+    font-family: "CCWildWordsRoman";
+    font-size: 18px;
+    padding-top: 50px;
+}
+
+p{
+    font-family: "CCWildWordsRoman";
+    font-size: larger;
+}
+
+img{
+    width:500px;
+    padding-top: 50px;
+    padding-left: 20px;
+}
+
+.utenanthy{
+    padding: 80px 40px 80px 40px;
+    margin-top: 20px;
+    margin-left: 5px;
+    border-width: 5px;
+    border-style: double;
+    border-color: rgb(87, 5, 32);
+}
+
+a:link{
+    text-decoration: none;
+    color: rgb(87, 5, 32);
+}
+
+
